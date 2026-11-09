@@ -6,14 +6,14 @@ This project explores **4× image super-resolution** for historical map scans. I
 
 ## Project files
 
-The main project record is [`DeepLearning_Project_ESRGAN.ipynb`](DeepLearning_Project_ESRGAN.ipynb). Its [HTML export](DeepLearning_Project_ESRGAN.html) shows the completed notebook. The bundled [`ESRGAN/`](ESRGAN/) directory contains upstream model code and pretrained weights.
+The main project record is [`DeepLearning_Project_ESRGAN.ipynb`](DeepLearning_Project_ESRGAN.ipynb). Its [HTML export](DeepLearning_Project_ESRGAN.html) shows the completed notebook. The local [`ESRGAN/`](ESRGAN/) directory contains upstream model code. Download the pretrained checkpoint separately from the source linked below.
 
 | Location | Contents |
 | --- | --- |
 | [`files/maps_hr/maps_hr/`](files/maps_hr/maps_hr/) | Three high-resolution map scans and their text metadata. The notebook attributes the maps to the David Rumsey Historical Map Collection. |
 | [`files/maps_test/`](files/maps_test/) | Three test map images and a saved pretrained-model example. |
 | [`files/hr_patches/`](files/hr_patches/) and [`files/lr_patches/`](files/lr_patches/) | 13,192 paired high- and low-resolution training patches. |
-| [`ESRGAN/models/RRDB_ESRGAN_x4.pth`](ESRGAN/models/RRDB_ESRGAN_x4.pth) | Pretrained 4× ESRGAN model weights loaded by the notebook. |
+| [`RRDB_ESRGAN_x4.pth` download page](https://huggingface.co/databuzzword/esrgan/blob/main/RRDB_ESRGAN_x4.pth) | Pretrained 4× ESRGAN weights used by the notebook. Download the file and place it at `ESRGAN/models/RRDB_ESRGAN_x4.pth` locally; the checkpoint is excluded from this Git repository. |
 | [`files/trained_generator.pth`](files/trained_generator.pth) | Saved weights of the project-trained generator. |
 | [`files/outputs/`](files/outputs/) | Individual results and combined comparisons for the three test maps. |
 
@@ -43,7 +43,7 @@ The pretrained model has the best reported scores. The project-trained result sh
 
 Use a Python 3 Jupyter environment with PyTorch, torchvision, Pillow, NumPy, pandas, Matplotlib, scikit-image, and `lpips`. The notebook also includes setup cells that use Git, Git LFS, `wget`, `gdown`, and `opencv-python` to obtain upstream code, model weights, and map archives.
 
-The notebook was written for AWS or Colab and sets `ROOT_DIR` to an absolute path. Before a local run, point `ROOT_DIR` to this repository's `files/` directory and start Jupyter from the repository root. Adjust or skip clone and download cells when using the included maps, ESRGAN code, and weights. Its training code requires CUDA as written because the perceptual-loss class explicitly moves tensors to the GPU. To inspect the completed work without retraining, open the HTML export and saved output images.
+The notebook was written for AWS or Colab and sets `ROOT_DIR` to an absolute path. Before a local run, point `ROOT_DIR` to this repository's `files/` directory and start Jupyter from the repository root. Download `RRDB_ESRGAN_x4.pth` from the link above into `ESRGAN/models/`, then adjust or skip clone and download cells when using the local maps and ESRGAN code. Its training code requires CUDA as written because the perceptual-loss class explicitly moves tensors to the GPU. To inspect the completed work without retraining, open the HTML export and saved output images.
 
 ## Evaluation limits
 
