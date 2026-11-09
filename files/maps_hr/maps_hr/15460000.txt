@@ -1,0 +1,27 @@
+Author	Whitaker & Ray Co.
+Date	1909
+Short Title	Grapho-Relief Map of the Bay Counties compiled from the latest and most accurate Official Data
+Publisher	Whitaker & Ray Co.
+Publisher Location	San Francisco
+Type	Wall Map
+Obj Height cm	89
+Obj Width cm	121
+Scale 1	95,000
+Note	Copyright is 1907, so there were likely earlier issues.
+City	San Francisco (Calif,)
+Region	San Francisco Bay Area
+Full Title	Grapho-Relief Map of the Bay Counties compiled from the latest and most accurate Official Data
+List No	15460.000
+Publication Author	Whitaker & Ray Co.
+Pub Date	1909
+Pub Title	Grapho-Relief Map of the Bay Counties compiled from the latest and most accurate Official Data
+Pub Reference	Tooley’s Dictionary of Mapmakers, Q–Z vol. (Riverside, Connecticut, 2001), p. 379.
+Pub Note	"A large, striking, and richly detailed topographical map of the Bay Area, depicting ten counties and the region’s three large bays. The territory covered extends from Santa Cruz in the south to Napa in the north, as far east and inland as the town of Tracy, and as far west as Marin County and the Pacific Ocean. The map’s many details include wagon roads, the University of California, Mills College, an asylum, various works, smelters, and mills, hotels, mines, missions, parks (including California’s Redwood Park), cities and towns, mountains and canyons, springs, cemeteries, observatories, hotels and houses, lakes, rivers and creeks, railroads (North Shore R.R., Western Pacific Railway, Ocean Shore R.R., Vallejo Napa R.R., etc.), and county boundaries (which are colored in red and yellow). Depicted along the shore are bays, islands (including Alcatraz Island), coves, lagoons, lighthouses, beaches, San Quentin Prison, wharfs and landings, the Mare Island Navy Yard, and more. Relief is shown by shading. Whitaker & Ray Co. was established in 1869 by merchants Andrew Whitaker and Don Ray in California. By the end of the 19th century, the firm had entered the publishing field, and the majority of their publications were issued between 1899 to 1906. In 1897, Whitaker & Ray Co. purchased A. L. Bancroft & Co. after it suffered a fire in 1886, A. L. Bancroft & Co.’s bookstore and lithographic office in San Francisco being at the time the largest of its kind on the Pacific coast. After the 1906 San Francisco Earthquake damaged their offices, they had established a new location by 1909. Around 1910, the company became Whitaker & Ray-Wiggin Co. and the firm continued to publish until around 1915. Other maps published by Whitaker & Ray Co. include New Map of California and Nevada (San Francisco, 1895); New Relief Map of the Bay Counties (San Francisco, 1905); New Grapho-politico ap of the State of California (1906); New Road Map of the Bay Counties, Including San Francisco and Adjoining Region (San Francisco, 1907). Collector Warren Heckrotte notes of the present map that “essentially the same map is also published as New Road Map of the Bay Counties (1907). This latter is at a smaller scale, black and white, without a rendering of relief, folded in folder” (Heckrotte Sale). OCLC records only one copy of the present 1909 edition (UC Davis), and one example of the 1907 issue, at UC Berkeley." (James Arsenault, 2023)
+Pub List No	15460.000
+Pub Type	Wall Map
+Pub Height cm	89
+Pub Width cm	121
+Image No	15460000.jp2
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/205/15460000.jp2 target=_blank>Full Image Download in JP2 Format</a>
+Download 2	<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>
+Authors	Whitaker & Ray Co.

@@ -1,0 +1,36 @@
+Author	MacDonald, D
+Date	1881
+Short Title	Chart of the World map on Mercators Projection
+Publisher	H. Belden & Co.
+Publisher Location	Toronto
+Type	Atlas Map
+Obj Height cm	31
+Obj Width cm	63
+Scale 1	1,500,000
+Note	Color map of the World. A portion of Asia is duplicated to show plainly its connection with the United States both East and West. Shows continents, countries, major cities, rivers, lakes, and roads. Relief shown by hachures. Depth of bodies of water shown by isolines. Meridian is Greenwich.
+World Area	World
+World Area	Asia
+Country	Palestine
+Region	World
+Full Title	Chart of the World on Mercators Projection. (Inset) Palestine. (Accompany to) Illustrated Atlas Of The Dominion Of Canada... Toronto: H. Belden & Co. 1881.
+List No	4838.010
+Page No	4-5
+Series No	10
+Engraver or Printer	Lloyd, H.H. & Co.
+Engraver or Printer	Dawson, J.W.
+Engraver or Printer	Robb, James.
+Engraver or Printer	Jukes, J.B.
+Engraver or Printer	Logan, W.E.
+Publication Author	Belden, H.
+Pub Date	1881
+Pub Title	Illustrated Atlas of the Dominion of Canada; containing authentic and complete maps of all the provinces; The North-West territories and the Island of Newfoundland; From the latest official surveys and plans, by permission of the general and provincial governments; Together with a general descriptive history, &c. Also, maps of Europe, Asia, Africa, North and South America, United States, Oceania, The World, Etc., Etc.; Toronto H. Belden &Co. 1881. (D. MacDonald) (Eastern Township + South-Eastern Quebec).
+Pub Note	This is a variant edition without MacDonald's name on the title page and with Belden as publisher (see our #3938), and includes entirely different local maps and views covering the Eastern Townships and South Western Quebec. This is similar to the Andreas Iowa Atlas having different views for different Congressional Districts. It is not clear how many different issues were made of this atlas - Phillips lists only one, and does not say which county it covers. Full printed color. Atlas is bound in half leather dark brown cloth covered boards with "Illustrated Atlas of the Dominion of Canada" gold stamped on front cover and blind stamped on back. Atlas contains engravings of various lot and street plans, Town layouts, and sketches of historical and farm residences. Some engravings are printed by Rolf Smith & Co. Also included are color maps. Some maps are prepared under the direction of D. MacDonald. Published in Toronto by H. Belden & Co. Bound in ¼ morocco with cloth boards, front board with embossed title in gold.
+Pub List No	4838.000
+Pub Type	National Atlas
+Pub Type	County Atlas
+Pub Height cm	45
+Pub Width cm	37
+Image No	4838010.jp2
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/218/4838010.jp2 target=_blank>Full Image Download in JP2 Format</a>
+Download 2	<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>
+Authors	MacDonald, D
